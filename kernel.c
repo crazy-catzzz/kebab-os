@@ -13,8 +13,6 @@ void kernel_main() {
     prints("KebabOS v1.0-alpha-scarraFOSS\n");
     prints("Mi piacciono gli spaghetti\n");
     prints("Kotte sei un geek\n");
-
-    char* keys = "
     
     while(true);
 }
